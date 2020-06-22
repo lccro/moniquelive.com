@@ -4,33 +4,54 @@
   
   <url>
     <loc>https://moniquelive.com/categories/</loc>
-    <lastmod>2020-05-17T16:00:00-03:00</lastmod>
+    <lastmod>2020-06-21T21:00:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://moniquelive.com/posts/primeiras-vezes/</loc>
-    <lastmod>2020-05-17T16:00:00-03:00</lastmod>
+    <loc>https://moniquelive.com/posts/experiencias/</loc>
+    <lastmod>2020-06-21T21:00:00-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://moniquelive.com/categories/inf%C3%A2ncia/</loc>
+    <lastmod>2020-06-21T21:00:00-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://moniquelive.com/categories/mem%C3%B3rias/</loc>
+    <lastmod>2020-06-21T21:00:00-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://moniquelive.com/</loc>
-    <lastmod>2020-05-17T16:00:00-03:00</lastmod>
+    <lastmod>2020-06-21T21:00:00-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://moniquelive.com/posts/</loc>
-    <lastmod>2020-05-17T16:00:00-03:00</lastmod>
+    <lastmod>2020-06-21T21:00:00-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://moniquelive.com/categories/transi%C3%A7%C3%A3o/</loc>
+    <lastmod>2020-06-21T21:00:00-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://moniquelive.com/posts/primeiras-vezes/</loc>
     <lastmod>2020-05-17T16:00:00-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

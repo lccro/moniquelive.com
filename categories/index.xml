@@ -6,15 +6,33 @@
     <description>Recent content on Monique Oliveira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 17 May 2020 16:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2020 21:00:00 -0300</lastBuildDate>
     
 	<atom:link href="https://moniquelive.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>infância</title>
+      <link>https://moniquelive.com/categories/inf%C3%A2ncia/</link>
+      <pubDate>Sun, 21 Jun 2020 21:00:00 -0300</pubDate>
+      
+      <guid>https://moniquelive.com/categories/inf%C3%A2ncia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>memórias</title>
+      <link>https://moniquelive.com/categories/mem%C3%B3rias/</link>
+      <pubDate>Sun, 21 Jun 2020 21:00:00 -0300</pubDate>
+      
+      <guid>https://moniquelive.com/categories/mem%C3%B3rias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>transição</title>
       <link>https://moniquelive.com/categories/transi%C3%A7%C3%A3o/</link>
-      <pubDate>Sun, 17 May 2020 16:00:00 -0300</pubDate>
+      <pubDate>Sun, 21 Jun 2020 21:00:00 -0300</pubDate>
       
       <guid>https://moniquelive.com/categories/transi%C3%A7%C3%A3o/</guid>
       <description></description>
